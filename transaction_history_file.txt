@@ -1,0 +1,5 @@
+Session start with account 111111111111 David
+ID1: Deposit: Cash deposit: 66000 KRW into account
+Session start with account 111111111111 David
+ID3: Withdrawl: Cash Withdrawl: 41000 KRW from account
+ID4: Transfer: Cash Transfer: 13000 KRW was inserted and Cash: 10000 KRW was send from 111111111111 David Kakao to 222222222222 Jane Shinhan
